@@ -1,5 +1,5 @@
 %% Validation
-for num = 410:800
+for num = 1:800
 fprintf(['Data ID = ',num2str(num),'\n']);
 % Read input time-domain noisy data and clean speech data
 noisy = noisySpeech(num).noisy; %log normalized stft of noisy input
