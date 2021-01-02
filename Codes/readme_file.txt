@@ -18,5 +18,5 @@ Following is the description of each of the .m files:
     
     Evaluation_DevSet_2 - Code for Evaluating the Proposed Hybrid (Adaptive Filter + DNN) model for performance analysis on Development set.
   
-  
+    NameSet, DevSet - Details (Meta data) of the training audio dataset.  
   
