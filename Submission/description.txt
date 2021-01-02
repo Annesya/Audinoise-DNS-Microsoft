@@ -1,1 +1,7 @@
 This folder contains the submission (Enhanced Audio Files) for the DNS competition evaluation.
+
+Enhanced Files for the Blind Test Set Available here:
+
+https://www.dropbox.com/s/mfo2bwubppwjc22/JadavpurUniversityInnovatorsLab_track_1_enhanced.zip?dl=0
+
+
