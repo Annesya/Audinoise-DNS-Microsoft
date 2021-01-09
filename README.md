@@ -7,4 +7,6 @@ Our submission has further resulted in **Global Rank 14** in this event.
 More details about DNS competition is available here:
 https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2021/
 
+**Team Name: Jadavpur University Innovators Lab**
 
+**Team Members**: Annesya Banerjee (Team Lead), Achal Nilhani, Supriya Dhabal. 
