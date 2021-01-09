@@ -31,7 +31,7 @@ clean_abs = abs(clean_stft);
 % Obtain the log power spectra (LPS)
 noisy_lps = log10(((noisy_abs).^2));
 clean_lps = log10(((clean_abs).^2));
-% Initialize parameters for the classical Noise Estiation
+% Initialize parameters for the classical Noise Estimation
 fbin = size(noisy_abs,1); tidx = size(noisy_abs,2);
 NPsd = ones([fbin,tidx]); %Initialize the noise stft
 X_estm = zeros(fbin,tidx);% Initialize clean speech psd estimate
